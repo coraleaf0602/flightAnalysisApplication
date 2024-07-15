@@ -40,7 +40,7 @@ To run the Flight Analysis Application on your local machine, follow these steps
 
 4. **Run the application:**
 
-   Execute the `Main.java` file to start the application.
+   Execute the `FinalProject.pde` file to start the application.
 
 ## 🎮 How to Use
 
