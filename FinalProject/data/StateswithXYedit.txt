@@ -1,0 +1,52 @@
+States,Code,MinX,MaxX,MinY,MaxY 
+Alabama,AL,581,627,355,428
+Alaska,AK,101,158,448,483 
+Arizona,AZ,165,240,305,400
+Arkansas,AR,479,537,330,395
+California,CA,77,105,270,295 
+Colorado,CO,287,338,253,291	
+Connecticut,CT,833,878,211,235 
+Delaware,DE,831,878,278,304 
+District Of Columbia,DC,832,878,353,376 
+Florida,FL,676,718,452,495 
+Georgia,GA,641,678,365,411 
+Hawaii,HI,337,371,532,566
+Idaho,ID,164,242,143,184
+Illinois,IL,535,566,229,270 
+Indiana,IN,584,608,232,268 
+Iowa,IA,450,525,185,235
+Kansas,KS,365,470,260,315
+Kentucky,KY,609,647,282,306 
+Louisiana,LA,496,560,405,464
+Maine,ME,795,840,56,121
+Maryland,MD,831,880,314,341
+Massachusetts,MA,830,880,140,166
+Michigan,MI,588,640,135,211	
+Minnesota,MN,453,487,107,154 
+Mississippi,MS,534,578,358,435
+Missouri,MO,477,533,250,325
+Montana,MT,225,340,70,135
+Nebraska,NE,345,445,202,250
+Nevada,NV,105,185,185,270
+New Hampshire,NH,726,774,61,86 
+New Jersey,NJ,831,878,244,271 
+New Mexico,NM,272,316,344,380 
+New York,NY,693,769,122,  183
+North Carolina,NC,672,759,307,344
+North Dakota,ND,395,430,80,130
+Ohio,OH,624,665,221,254 
+Oklahoma,OK,410,462,322,374 
+Oregon,OR,70,155,100,160
+Pennsylvania,PA,679,752,188,230 
+Rhode Island,RI,831,879,176,201 
+South Carolina,SC,669,722,343,381 
+South Dakota,SD,372,428,142,184
+Tennessee,TN,552,651,320,348
+Texas,TX,300,485,385,535
+Utah,UT,195,255,197,292
+Vermont,VT,668,716,56,85 
+Virginia,VA,685,751,248,300 
+Washington,WA,100,172,50,80
+West Virginia,WV,662,696,245,293 
+Wisconsin,WI,505,560,130,195
+Wyoming,WY,245,335,150,225
