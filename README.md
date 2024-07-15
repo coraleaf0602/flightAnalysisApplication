@@ -1,7 +1,7 @@
 
 # ✈️ Flight Analysis Application
 
-Welcome to the **Flight Analysis Application**! This application is designed to analyze and visualize flight data using various graphing methods, such as bar charts, pie charts and line charts. Built with Java and Processing, it displays 10,000 sets of flight information, offering insights into various flight metrics. 📊
+Welcome to the **Flight Analysis Application**! This application is designed to analyze and visualize flight data using various graphing methods, such as bar charts, pie charts, line charts and an interactive map of US! Built with Java and Processing, it displays 10,000 sets of flight information, offering insights into various flight metrics. 📊
 
 ## 📖 Table of Contents
 
